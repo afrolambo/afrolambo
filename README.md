@@ -4,7 +4,10 @@
 </div>
 
 
-<h2 align="center"> ABOUT </h2> 
+<h3 align="center"> ABOUT ME</h3> 
+
+- I'm a software Engineer with a background in contemporary dance and arts management. I'm currently learning, **Redux** & **AWS** 
+- Feel free to reach out, I'm always looking for opportunities to collaborate on open source projects 
 
 - 📫 How to reach me: **stephennoahgalvan@gmail.com**
 
@@ -38,15 +41,9 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <a href="https://stephengalvan.medium.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="stephen-galvan" height="40" width="50" />
-  </a>
-  <a href="https://twitter.com/afrolambo" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="afrolambo" height="40" width="50" />
-  </a>
-  <a href="https://www.linkedin.com/in/stephen-galvan-3288a416b/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephen-galvan" height="40" width="50" />
-  </a>
+  <a href="https://stephengalvan.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="stephen-galvan" height="40" width="50" /></a>
+  <a href="https://twitter.com/afrolambo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="afrolambo" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/stephen-galvan-3288a416b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephen-galvan" height="40" width="50" /></a>
 </p>
 
 
