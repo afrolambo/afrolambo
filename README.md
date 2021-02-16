@@ -1,5 +1,12 @@
 ### Hey there my name is Stephen Galvan 👋
 
+### ABOUT 
+
+### STATS
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afrolambo&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp;
+
+### Let's Get In Touch 
+
 <!--
 **afrolambo/afrolambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
