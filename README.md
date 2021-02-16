@@ -1,5 +1,5 @@
 <div align="center"> 
-  // <img src="https://komarev.com/ghpvc/?username=afrolambo&label=Profile%20views&color=0e75b6&style=flat" alt="afrolambo" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=afrolambo&label=Profile%20views&color=0e75b6&style=flat" alt="afrolambo" /> -->
   <h1 align="center"> Hey there 👋 I'm Stephen </h1>
 </div>
 
