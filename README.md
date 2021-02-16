@@ -11,7 +11,7 @@
 <h3 align="center"> LANGUAGES AND TOOLS </h3>
 
 <h3 align="center"> STATS </h3>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afrolambo&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+[[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afrolambo&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <!--
