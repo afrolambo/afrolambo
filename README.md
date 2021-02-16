@@ -34,9 +34,7 @@
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </>
 
-<h3 align="center"> STATS </h3>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afrolambo&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=afrolambo&show_icons=true&theme=vue" alt="afrolambo"/></p>
 
 <h3 align="center">Connect with me</h3>
 
