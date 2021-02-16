@@ -1,11 +1,18 @@
-### Hey there my name is Stephen Galvan 👋
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=afrolambo&label=Profile%20views&color=0e75b6&style=flat" alt="afrolambo" />
+  <h1 align="center"> Hey there 👋 I'm Stephen </h1>
+</div>
+
 
 ### ABOUT 
+
+- 📫 How to reach me: **stephennoahgalvan@gmail.com**
+
+<h3 align="center"> Languages and Tools </h3>
 
 ### STATS
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afrolambo&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp;
 
-### Let's Get In Touch 
 
 <!--
 **afrolambo/afrolambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
