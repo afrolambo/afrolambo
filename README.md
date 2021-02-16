@@ -16,6 +16,20 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afrolambo&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+  <a href="https://stephengalvan.medium.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="stephen-galvan" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/afrolambo" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="afrolambo" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/stephen-galvan-3288a416b/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stephen-galvan" height="30" width="40" />
+  </a>
+</p>
+
 
 <!--
 **afrolambo/afrolambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
