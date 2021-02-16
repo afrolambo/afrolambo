@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **stephennoahgalvan@gmail.com**
 
-<h3 align="center"> LANGUAGES AND FRAMEWORKS</h3>
+<h3 align="center"> LANGUAGES, FRAMEWORKS and TOOLS</h3>
 
 <!-- LANGUAGES -->
 <p class="languages" align="center"> 
@@ -24,8 +24,6 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </>
-  
-<h3 align="center"> TOOLS </>
 
 <!-- TOOLS -->
 <p class="tools" align="center">
