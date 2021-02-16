@@ -1,16 +1,16 @@
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=afrolambo&label=Profile%20views&color=0e75b6&style=flat" alt="afrolambo" />
+  // <img src="https://komarev.com/ghpvc/?username=afrolambo&label=Profile%20views&color=0e75b6&style=flat" alt="afrolambo" />
   <h1 align="center"> Hey there 👋 I'm Stephen </h1>
 </div>
 
 
-### ABOUT 
+<h2 align="center"> ABOUT </h2> 
 
 - 📫 How to reach me: **stephennoahgalvan@gmail.com**
 
-<h3 align="center"> Languages and Tools </h3>
+<h3 align="center"> LANGUAGES AND TOOLS </h3>
 
-### STATS
+<h3 align="center"> STATS </h3>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=afrolambo&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp;
 
 
